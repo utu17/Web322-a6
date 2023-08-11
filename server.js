@@ -6,9 +6,9 @@
  *
  *  Name: Utsav Jiteshkumar Bhanderi Student ID: 159776202 Date: 11th August 2023
  *
- *  Cyclic Web App URL: ________________________________________________________
+ *  Cyclic Web App URL: https://rich-tan-jewelry.cyclic.app
  *
- *  GitHub Repository URL: ______________________________________________________
+ *  GitHub Repository URL: https://github.com/utu17/web322-a6
  *
  ********************************************************************************/
 
